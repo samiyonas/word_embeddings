@@ -8,7 +8,6 @@
 
 ![model summary](assets/model%20summary.png)
 
-#### to visualize the word embeddings, upload them to vectors.tsv and metadata.tsv file to https://projector.tensorflow.org
 ### try it yourself
 
 #### install uv
@@ -27,3 +26,5 @@ uv run python3 main.py
 ```
 uv run tensorboard --logdir logs
 ```
+
+#### to visualize the word embeddings, upload them to vectors.tsv and metadata.tsv file to https://projector.tensorflow.org

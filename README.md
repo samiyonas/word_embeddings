@@ -1,6 +1,6 @@
 #### this project experiment was done as part of Information, Digital, & AI Literacy course at uni.
 
-#### this project demonstrates the complete NLP workflow in TensorFlow: preprocessing text, learning word embeddings, training a sentiment classifier, and visualizing training metrics with TensorBoard.
+#### this project explores Natural Language Processing using TensorFlow’s word embeddings, following the official TensorFlow Word Embeddings guide. it builds a sentiment analysis model on the IMDb dataset using TextVectorization and an embedding layer to convert text into learnable numerical representations, followed by a neural network for binary classification. The project also uses TensorBoard to visualize training performance and understand model behavior, including learning patterns and overfitting.
 
 ![epoch accuracy](assets/epoch%20accuracy.png)
 ![epoch loss](assets/epoch%20loss.png)
@@ -8,6 +8,7 @@
 
 ![model summary](assets/model%20summary.png)
 
+#### to visualize the word embeddings, upload them to https://projector.tensorflow.org
 ### try it yourself
 
 #### install uv

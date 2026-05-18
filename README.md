@@ -1,4 +1,6 @@
-#### this project experiment was done as part of Information, Digital, & AI Literacy course at uni.
+#### this project experiment was done as part of Information, Digital, & AI Literacy course at SET.
+
+#### i used this guide: https://www.tensorflow.org/text/guide/word_embeddings
 
 #### this project explores Natural Language Processing using TensorFlow’s word embeddings, following the official TensorFlow Word Embeddings guide. it builds a sentiment analysis model on the IMDb dataset using TextVectorization and an embedding layer to convert text into learnable numerical representations, followed by a neural network for binary classification. The project also uses TensorBoard to visualize training performance and understand model behavior, including learning patterns and overfitting.
 
